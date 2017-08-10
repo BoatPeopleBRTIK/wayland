@@ -116,8 +116,8 @@ Priority: extra
 Depends:
  ${misc:Depends},
 Multi-Arch: foreign
-Conflicts: libwayland-dev (<< 1.9.0-1)
-Replaces: libwayland-dev (<< 1.9.0-1)
+Conflicts: libwayland-dev (<< 1.10.0-2)
+Replaces: libwayland-dev (<< 1.10.0-2)
 Description: wayland compositor infrastructure - documentation files
  Wayland is a protocol for a compositor to talk to its clients as well
  as a C library implementation of that protocol. The compositor can be
@@ -136,8 +136,8 @@ Priority: extra
 Depends:
  ${shlibs:Depends},
  ${misc:Depends},
-Conflicts: libwayland-dev (<< 1.9.0-1)
-Replaces: libwayland-dev (<< 1.9.0-1)
+Conflicts: libwayland-dev (<< 1.11.0-1)
+Replaces: libwayland-dev (<< 1.11.0-1)
 Multi-Arch: foreign
 Description: wayland compositor infrastructure - binary utilities
  Wayland is a protocol for a compositor to talk to its clients as well
