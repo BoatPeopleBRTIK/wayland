@@ -1,3 +1,9 @@
+wayland (1.14.0-1ubuntu1) xenial; urgency=medium
+
+  * Release for xenial
+
+ -- Chanho Park <chanho61.park@samsung.com>  Fri, 11 Aug 2017 13:35:36 +0900
+
 wayland (1.14.0-1) unstable; urgency=medium
 
   * New upstream release.
